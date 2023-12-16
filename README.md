@@ -1,6 +1,6 @@
 # chatbot_ecommerce
 
-Fashion Chatbot
+E-commerce Chatbot
 
 Overview
 This repository contains a comprehensive system for recommending fashion products, specifically focusing on blue jeans. It utilizes advanced machine learning and natural language processing techniques to provide relevant fashion recommendations based on user input.
